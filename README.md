@@ -1,22 +1,16 @@
-# projetoMobile
-Projeto de Desenvolvimento de Dispositivos Móveis
+# projeto
 
-Alunos:
-Luiza Helena de Lima Santos - 2489236
-Vinicius Pereira Luz - 2422735
+A new Flutter project.
 
-Resumo:
-Tivemos como objetivo desenvolver um aplicativo para controle financeiro. Através da inserção de informações como renda e gastos, criar uma visualização resumida dos dados, com intuito de auxiliar o usário em gerir seus gastos.
+## Getting Started
 
-Implementações faltantes: 
-- Página de dashboard com gráficos;
-- Páginas de configurações como tema, notificações e gerenciamento de perfil;
-- Integração de código em Python para a extração de dados da web;
-- Geração da lista de produtos baseado na nota fiscal;
-- Inserção de múltiplas rendas e despesas tanto fixas quanto variáveis.
+This project is a starting point for a Flutter application.
 
-Bugs:
-- Botão de logout não funciona adequadamente após interação com outras páginas além da inicial;
-- Os valores dos campos "descrição" e "valor" em "adcionar despesas" não estão sendo armazenados, visto na página de "Resumo", que não será utilizada na versão final do aplicativo e foi implementada apenas com intuito de debugging.
-- Ao criar a conta são gerados alguns erros que não impedem a funcionaliade do aplicativo.
-As funções foram realizadas em conjunto simultaneamente em alguns dias de semana presencialmente.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
