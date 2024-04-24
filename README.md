@@ -15,5 +15,5 @@ O Projeto tem como objetivo ser um aplicativo de controle financeiro, desenvolvi
 
 # Alunos
 
- Luiza Helena de Lima
- Vinicius Pereira Luz
+ - Luiza Helena de Lima
+ - Vinicius Pereira Luz
