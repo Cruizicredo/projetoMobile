@@ -1,16 +1,19 @@
-# projeto
+#Projeto
 
-A new Flutter project.
+O Projeto tem como objetivo ser um aplicativo de controle financeiro, desenvolvido com flutter
 
-## Getting Started
+#Bugs
 
-This project is a starting point for a Flutter application.
+  - Ao criar contas geral alguns warnings, porém nada que pare o funcionamento
+  - Botão sair volta para ultima tela, ao inves da de login
 
-A few resources to get you started if this is your first Flutter project:
+#Implementações faltntes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  - Tela de gerenciamento de notificações, tema e configurações da conta
+  - Dashboard dos gastos
+  - Resumos das compras após inseir gasto ou nota
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Alunos
+
+ Luiza Helena de Lima
+ Vinicius Pereira Luz
